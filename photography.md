@@ -1,8 +1,6 @@
----
 layout: page
 permalink: /photography/index.html
 title: Photography
----
 
 # Photography
 
@@ -30,8 +28,6 @@ Welcome to my photography portfolio!  (All shot by mobile phone)
   </a>
   <div class="desc">The reflections of buildings and the trees in Lanrun Lake</div>
 </div>
-
-
 <div class="gallery">
   <a target="_blank" href="https://cqlyu.github.io/images/PKU4.jpg">
     <img src="https://cqlyu.github.io/images/PKU4.jpg" alt="5Terre" width="400" height="300">
@@ -51,4 +47,3 @@ Welcome to my photography portfolio!  (All shot by mobile phone)
   </a>
   <div class="desc">The shadow marks the passage of time on the sundial</div>
 </div>
-

@@ -20,7 +20,7 @@ I enjoy traveling in big and small cities, with friends or by myself, visiting l
 
 ## Chinese Kungfu
 
-I am a fan of Chinese kung fu. Martial arts let me have a higher spiritual temperament, let me calm down and think about the relationship between man and nature. Chinese kung fu is one of the traditional Chinese culture. Among all kinds of cold weapons, I like sticks, swords, broadswords, and nunchakus.
+I am a fan of Chinese kung fu. Martial arts let me have a higher spiritual temperament, let me calm down and think about the relationship between man and nature. Chinese kung fu is one of the traditional Chinese culture. Among all kinds of cold weapons, I like long staff (长棍), sword (剑), saber (刀), and nunchakus (双节棍).
 
 <img src="https://cqlyu.github.io/images/Kungfu.jpg" class="floatpic" width="400" height="300">
 

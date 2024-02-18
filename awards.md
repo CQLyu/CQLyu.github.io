@@ -14,9 +14,9 @@ title: Awards
 - 2021: Award for Contribution in Student Organizations of PKU
 - 2020: Award for Academic Excellents of PKU
 - 2019: Outstanding Undergraduate Award Thesis in Beijing (Province level)
-- 2019: Merit Students of Beijing
+- 2019: Merit Students of Beijing  (Province level)
 - 2019: Merit Students of BNU
-- 2019: Outstanding Graduate of Beijing
+- 2019: Outstanding Graduate of Beijing  (Province level)
 - 2019: Outstanding Graduate of BNU
 - 2019: Top Ten Excellent Students of BNU (10 students each year)
 - 2018: First Prize of Acadamic Competition of BNU
