@@ -24,14 +24,19 @@ links:
     url: /
   - title: Resume
     url: /file/CV_0.pdf
+  - title: Research
+    url: /research/
   - title: Publications
     url: /publications/
+  - title: Outreach
+    url: /outreach/  
   - title: Awards
     url: /awards/
   - title: Hobbies
     url: /hobbies/
   - title: Photography
     url: /photography/
+    
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
