@@ -1,6 +1,8 @@
+---
 layout: page
 permalink: /photography/index.html
 title: Photography
+---
 
 # Photography
 
