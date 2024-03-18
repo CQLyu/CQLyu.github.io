@@ -8,11 +8,12 @@ title: Publications
 
 ## Journal Paper
 
-**Cheqiu Lyu**, Yingjie Peng, Yipeng Jing, Xiaohu Yang, Luis C. Ho, Alvio Renzini, Bitao Wang, Kai Wang, Bingxiao Xu, Dingyi Zhao, Jing Dou, Qiusheng Gu, Roberto Maiolino, Filippo Mannucci, and Feng Yuan *From Halos to Galaxies. VII. The Connections between Stellar Mass Growth History, Quenching History, and Halo Assembly History for Central Galaxies* 2023 *ApJ* 959 5 https://dx.doi.org/10.3847/1538-4357/ad036b
+- **Cheqiu Lyu**, Yingjie Peng, Yipeng Jing, Xiaohu Yang, Luis C. Ho, Alvio Renzini, Bitao Wang, Kai Wang, Bingxiao Xu, Dingyi Zhao, Jing Dou, Qiusheng Gu, Roberto Maiolino, Filippo Mannucci, and Feng Yuan *From Halos to Galaxies. VII. The Connections between Stellar Mass Growth History, Quenching History, and Halo Assembly History for Central Galaxies* 2023 *ApJ* 959 5 https://dx.doi.org/10.3847/1538-4357/ad036b
 
+- **Cheqiu Lyu** et al., From Halos to Galaxies. IX. Estimate of halo assembly history for SDSS galaxy groups, 2024, submitted to ApJ
 
+- Yu-Chen Wang,  Zhen-Zhao Tao, Zhi-Song Zhang, **Cheqiu Lyu**, Tingting Zhang, Tong-Jie Zhang, and Dan Werthimer *A Search for Extraterrestrial Technosignatures in Archival FAST Survey Data Using a New Procedure*  2023 *AJ* 166 146 https://iopscience.iop.org/article/10.3847/1538-3881/acf12a
 
-Yu-Chen Wang,  Zhen-Zhao Tao, Zhi-Song Zhang, **Cheqiu Lyu**, Tingting Zhang, Tong-Jie Zhang, and Dan Werthimer *A Search for Extraterrestrial Technosignatures in Archival FAST Survey Data Using a New Procedure*  2023 *AJ* 166 146 https://iopscience.iop.org/article/10.3847/1538-3881/acf12a
 
 
 
