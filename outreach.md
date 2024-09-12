@@ -10,11 +10,11 @@ title: Outreach
 
 **My outreach activities on astronomy span a wide range of audiences, including the school children from ages 6 to 18 and general public. I have been engaged in outreach in 9 cities in China.**
 
-- Part-time Teaching Astronomy in the Affiliated High School of PKU @Beijing, 2018, 2019, 2021, 2022, 2023
+- Part-time Teaching Astronomy in the Affiliated High School of PKU @Beijing, 2018, 2019, 2021, 2022, 2023, 2024
 - Invited Instructor on Astronoical Observation for Teenagers @Zhangye/Jiuqiuan/Jiayuguan/Alashan, Gansu/Inner Mongolia, 2023
 - Lectures on Astronomy in Bayan Nur No.1 High School @Bayan Nur, Inner Mongolia, 2023
 - Invited Instructor on Astronoical Observation for Teenagers @Bejing, 2022
-- Lecture on Astronomy in Liang Xiang High School Affiliated To BNU @Beijing, 2021
+- Lecture on Astronomy in Liangxiang High School Affiliated To BNU @Beijing, 2021
 - Lectures on Astronomy in Sangzhi No.1 High School @Zhangjiajie, Hunan, 2019
 - Part-time Teaching Astronomy in Beijing Primary School @Beijing, 2019
 - Lecture on Astronomy in Beijing Ya’er Hutong Primary School @Beijing, 2018
