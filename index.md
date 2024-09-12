@@ -14,9 +14,9 @@ I am a Postdoctoral researcher at Department of Astronomy, [University of Scienc
 
 
 
-**Address**: Jinzhai Road No.96, Baohe District, Heifei, People’s Republic of China
+**Address**: Jinzhai Road No.96, Baohe District, Heifei, Anhui, People’s Republic of China
 
-**Email**: lyucq_AT_pku.edu.cn
+**Email**: lyucq_AT_ustc.edu.cn
 
 
 
