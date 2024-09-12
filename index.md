@@ -10,17 +10,17 @@ layout: page
 
 Here is **Cheqiu Lyu** (吕澈秋，pronounced as <a href="https://translate.google.com/#view=home&op=translate&sl=zh-CN&tl=zh-CN&text=吕澈秋"><strong>Lyǔ Chè Qiū</strong> </a>).
 
-I am a Ph.D. student majoring in **Astrophysics** at [Kavli Institute for Astronomy and Astrophysics (KIAA)](https://kiaa.pku.edu.cn/index.htm), [Peking University (PKU)](https://english.pku.edu.cn//). Currently, my research focuses on **Galaxy Formation and Evolution**, advised by [Prof. Yingjie Peng](https://kiaa.pku.edu.cn/info/1010/1016.htm). Here is [my CV](https://cqlyu.github.io/file/CV_0.pdf).
+I am a Postdoctoral researcher at Department of Astronomy, [University of Science and Technology of China](https://www.ustc.edu.cn/) (USTC).
 
 
 
-**Address**: Yiheyuan Road No.5, Haidian District, Beijing, People’s Republic of China
+**Address**: Jinzhai Road No.96, Baohe District, Heifei, People’s Republic of China
 
 **Email**: lyucq_AT_pku.edu.cn
 
 
 
-**This website is still under-construction! (Lastest Update: Mar 1st 2024)**
+**This website is still under-construction! (Lastest Update: Sep 12 2024)**
 
 <br>
 
@@ -28,9 +28,7 @@ I am a Ph.D. student majoring in **Astrophysics** at [Kavli Institute for Astron
 
 ## Education
 
-**<font color='red'>[Highlight !]</font> I am looking for post-doc position to start in Fall 2024. Contact me if you have any leads!**
-
-- **Sep 2019- present:  Ph.D in astrophysics, Department of Astronomy/Kavli Institute for Astronomy and Astrophysics, Peking University**
+- **Sep 2019- Jul 2024:  Ph.D in astrophysics, Department of Astronomy/Kavli Institute for Astronomy and Astrophysics, Peking University**
 - **Sep 2015-Jun 2019: B.S. in Astronomy, Department of Astronomy, Beijing Normal University (BNU)**
 
 <br>
@@ -67,27 +65,6 @@ My research interests also include:
 
 
 
----
-
-## Projects Involvements
-
-- Active Galactic Nuclei Feedback on Galactic Scale: Observational Study (member)
-- Chinese Space Station Telescope (CSST) Galaxy Science Research (member)
-- National Undergraduate Training Programs for Innovation (PI)
-
-
-
-
-
----
-
-## Talks and Presentations
-
-- *Observational study of AGN feedback at galactic scale* Meeting, Speaker, Nanjing University, Jul 2023
-- *CSST AGN and galaxy science discussion*, Speaker, Peking University, Jun 2023
-- *CSST AGN and galaxy science discussion*, Speaker, Peking University, Jul 2022
-- *Galaxy and AGN Party*, Speaker, Peking University, Dec 2021
-
 
 
 
@@ -95,7 +72,7 @@ My research interests also include:
 ## Former Research Experience in Astrophysics
 
 - *Tracing galaxies evolution with gas-phase and stellar metallicities*, Supervised by Yingjie Peng (KIAA, PKU), Since Jul 2020
-- *Research on High-redshift Quasars and VLBI data processing*, Internship, Advised by Prof. Tao An ([Shanghai Astronomical Observatory (SHAO)](http://english.shao.ac.cn/), CAS), Aug 2018
+- *Research on High-redshift Quasars and VLBI data processing*, Internship, Supervised by Prof. Tao An ([Shanghai Astronomical Observatory (SHAO)](http://english.shao.ac.cn/), CAS), Aug 2018
 - National Undergraduate Training Programs for Innovation: *A Mitigation Method of Radio Frequency Interference (RFI) in Searching for Extraterrestrial Intelligence (SETI)* , PI, Supervised by Prof. Tong-Jie Zhang ([DoA, BNU](https://astro.bnu.edu.cn/english/index.html)),  Jun 2017- Jun 2018
 - *A method of reducing the measurement error of the apparent stellar velocity by spectral correlation matching*, Advised by Prof. Hai-bo Yuan ([DoA, BNU](https://astro.bnu.edu.cn/english/index.html)), Aug 2017
 - *Data obtaining and processing of* *high-resolution spectra of luminous infrared galaxies*, Internship, Advised by Prof. Chen Cao ([Shandong University, Weihai](https://enapd.wh.sdu.edu.cn/)), Jul 2017
