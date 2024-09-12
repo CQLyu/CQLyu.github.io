@@ -8,6 +8,7 @@ title: Awards
 
 ## Selected Honors & Awards
 
+- 2024: Outstanding Graduate of PKU
 - 2023: Lee Wai Wing Scholarship
 - 2023: Merit Student of PKU
 - 2022: Award for Contribution in Scientific Research of PKU
