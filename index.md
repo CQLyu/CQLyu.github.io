@@ -28,7 +28,7 @@ I am a Postdoctoral researcher at Department of Astronomy, [University of Scienc
 
 ## Education
 
-- **Sep 2019- Jul 2024:  Ph.D in astrophysics, Department of Astronomy/Kavli Institute for Astronomy and Astrophysics, Peking University**
+- **Sep 2019- Jul 2024:  Ph.D in astrophysics, Department of Astronomy/Kavli Institute for Astronomy and Astrophysics, Peking University (PKU)** 
 - **Sep 2015-Jun 2019: B.S. in Astronomy, Department of Astronomy, Beijing Normal University (BNU)**
 
 <br>
