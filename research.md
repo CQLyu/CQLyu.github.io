@@ -20,13 +20,7 @@ Additionally, the study revealed a close correlation between the gas turbulence 
 
 
 
-```html
-<br>
 <img src="https://cqlyu.github.io/images/Lyu25-1.png" class="floatpic" width="1000">
-<br>
-```
-
-
 
 
 
@@ -38,13 +32,9 @@ Using stellar mass growth history derived from SDSS-MaNGA, we show that at a giv
 
 Different halo assembly history also produces a very different final stellar mass of the central galaxy within, and the difference in the present stellar mass can be as large as ∼ 1 dex. At the same present halo mass, halos assembled earlier tend to host more massive centrals with a higher averaged quenched fraction, in particular around 10 12 M ⊙ . **Our study presents the quantitative connection between the growth of galaxy stellar mass and the assembly of their halo, and calls attention back to the dark matter halo as an important driver of galaxy evolution.**
 
-```markdown
-<br>
+
+
 <img src="https://cqlyu.github.io/images/Lyu23-1.png" class="floatpic" width="600">
-<br>
-```
-
-
 
 ## Tracing star formation quenching by metallicity
 
@@ -62,11 +52,7 @@ Using mock data from the semi-analytic model L-GALAXIES, we find that Mstar/M_h 
 
 With careful calibrations of individual observable quantities in the mocks with SDSS observations, we apply these trained models to the SDSS groups (Yang et al. 2007, 2009) and accurately derive the t_h,50 for each group for the first time. We show the derived SDSS t_h50 distribution functions are in reasonable agreement with that in the mocks, in particular for blue groups, which hence strongly supports our methods. **The derived halo assembly time, together with the halo masses, make an important step forward in studying the halo-galaxy connections.**
 
-```markdown
-<br>
 <img src="https://cqlyu.github.io/images/Lyu24-1.png" class="floatpic" width="1000">
-<br>
-```
 
 
 
