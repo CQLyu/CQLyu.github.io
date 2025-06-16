@@ -18,15 +18,15 @@ The study found that, at a given stellar mass, disks with lower gas-phase metall
 
 Additionally, the study revealed a close correlation between the gas turbulence parameter (represented by σgas/Re) and the metallicity gradient. Turbulence weakens the gradient through gas mixing. Using a Random Forest machine learning model, the study quantified the impact of different physical parameters on the gradient. The results showed that metallicity excess (Δlog(O/H)) and the gas turbulence parameter (σgas/Re) are the most critical factors in predicting the gradient, far outweighing traditional parameters such as stellar mass or galaxy size. This highlights the combined role of turbulence and coplanar inflows in shaping the metallicity gradient.
 
-```markdown
-<br>
-```
 
+
+```html
+<br>
 <img src="https://cqlyu.github.io/images/Lyu25-1.png" class="floatpic" width="1000">
-
-```markdown
 <br>
 ```
+
+
 
 
 
@@ -40,11 +40,7 @@ Different halo assembly history also produces a very different final stellar mas
 
 ```markdown
 <br>
-```
-
 <img src="https://cqlyu.github.io/images/Lyu23-1.png" class="floatpic" width="600">
-
-```markdown
 <br>
 ```
 
@@ -52,19 +48,11 @@ Different halo assembly history also produces a very different final stellar mas
 
 ## Tracing star formation quenching by metallicity
 
-In Lyu et al. (2023), we investigate the stellar mass growth history and the chemical enrichment history of central galaxies measured from the SDSS-MaNGA survey. We find that at a given epoch, the derived stellar metallicity of central passive galaxies is always higher than that of the star-forming ones. This stellar metallicity enhancement becomes larger for low-mass galaxies (at a given epoch) and for an earlier epoch (at a given stellar mass). **We find strangulation is the primary mechanism for star formation quenching in central galaxies not only in the local Universe (Peng et al. 2015), but very likely also at higher redshifts up to z ∼ 3.**
-
-```markdown
-<br>
-```
-
-<img src="https://cqlyu.github.io/images/Lyu23-2.png" class="floatpic" width="600">
-
-```markdown
-<br>
-```
+In Lyu et al. (2023), we investigate the stellar mass growth history and the chemical enrichment history of central galaxies measured from the SDSS-MaNGA survey. We find that at a given epoch, the derived stellar metallicity of central passive galaxies is always higher than that of the star-forming ones. This stellar metallicity enhancement becomes larger for low-mass galaxies (at a given epoch) and for an earlier epoch (at a given stellar mass). **We find strangulation is the primary mechanism for star formation quenching in central galaxies not only in the local Universe (Peng et al. 2015), but very likely also at higher redshifts up to z ∼ 3.
 
 
+
+<br><img src="https://cqlyu.github.io/images/Lyu23-2.png" class="floatpic" width="600"><br>
 
 ## Estimate the halo assembly history for SDSS galaxy groups
 
@@ -76,9 +64,11 @@ With careful calibrations of individual observable quantities in the mocks with 
 
 ```markdown
 <br>
+<img src="https://cqlyu.github.io/images/Lyu24-1.png" class="floatpic" width="1000">
+<br>
 ```
 
-<img src="https://cqlyu.github.io/images/Lyu24-1.png" class="floatpic" width="1000"><br>
+
 
 ## Star Formation Quenching
 
