@@ -10,6 +10,7 @@ title: Outreach
 
 **My outreach activities on astronomy span a wide range of audiences, including the school children from ages 6 to 18 and general public. I have been engaged in outreach in 9 cities in China.**
 
+- Volunteer and lecturer for the USTC Observatory’s public open day @Heifei, 2025
 - Part-time Teaching Astronomy in the Affiliated High School of PKU @Beijing, 2018, 2019, 2021, 2022, 2023, 2024
 - Invited Instructor on Astronoical Observation for Teenagers @Zhangye/Jiuqiuan/Jiayuguan/Alashan, Gansu/Inner Mongolia, 2023
 - Lectures on Astronomy in Bayan Nur No.1 High School @Bayan Nur, Inner Mongolia, 2023
@@ -43,4 +44,5 @@ title: Outreach
 - One of the three translators, “The Travellers Guide to the Big Bang” by Joel Levy, English to Chinese,《如何漫游宇宙大爆炸》, Beijing United Publishing Co., Ltd. 2023
 - One of the four translators, “Universe: Exploring the Astronomical World” by Phaidon Press, English to Chinese,《宇宙之形：太空艺术博物馆》, Beijing United Publishing Co., Ltd. 2022
 - One of the six translators, “Space Atlas” by James Trefil, English to Chinese,《太空全书》, Beijing United Publishing Co., Ltd. 2017 Version I, 2019 Version II
+- Interesting Physics: Light, Space, in print
 
