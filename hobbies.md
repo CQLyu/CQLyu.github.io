@@ -10,7 +10,7 @@ title: Hobbies
 
 
 
-I enjoy traveling in big and small cities, with friends or by myself, visiting local places of interest, especially universities and museums, tasting local delicious food, and experiencing local life. So far, I have visited more than 70 cities in China.
+I enjoy traveling in big and small cities, with friends or by myself, visiting local places of interest, especially universities and museums, tasting local delicious food, and experiencing local life. So far, I have visited more than 90 cities in China.
 
 <img src="https://cqlyu.github.io/images/Footpoint230818.png" class="floatpic" width="400" height="300">
 
