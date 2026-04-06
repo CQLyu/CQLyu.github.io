@@ -8,9 +8,29 @@ title: Research
 
 **My research delves into the intricate connections among stellar mass growth history, star formation quenching history, halo assembly history, and chemical evolution history. Utilizing sky survey data alongside semi-analytical models and simulations, I aim to uncover the underlying mechanisms shaping the landscape of galaxy formation and evolution.**
 
+## Mg II-traced Cool Gas Outflows toward Cosmic Dawn
+
+**In Lyu et al. (2026b), ** ...
+
+Galactic-scale outflows are a crucial component of galaxy evolution, yet their properties in the early Universe remain poorly constrained. 
+
+We present the first statistical investigation of Mg II-traced cool gas outflows in galaxies spanning a wide cosmic timeline from z ≈ 1 to z > 6 (with sample coverage extending to z ∼ 10). Using thousands of public JWST/NIRSpec spectra, we employ a signal-to-noise-weighted spectral stacking technique on the Mg II λλ2796, 2803 absorption doublet. We robustly detect blueshifted Mg II absorption in nearly all stellar mass and redshift bins, with the exception of the lowest-mass systems at z ∼ 1–2. The outflow equivalent width exhibits a positive correlation with stellar mass (M * ) at all epochs, with the fitted slope of 1.21 ± 0.35. Our work provides the first statistical constraints on Mg II-traced cool outflows in the low-mass (M * ≲ 10 9.5 M⊙ ), highredshift (z > 3) regime. We also find that the outflow velocities generally remain below the host halo escape velocities, consistent with a galactic fountain scenario. The consistency of the stellar mass outflow equivalent width relation across z ∼ 2–6 suggests a persistent, unevolving feedback mechanism governing the baryon cycle toward cosmic dawn.
+
+<img src="https://cqlyu.github.io/images/Lyu26-1.png" class="floatpic" width="1000">
+
+## Little Green Dots: [OIII]-bright Galaxies at the Epoch of Reionization
+
+**In Lyu et al. (2025b), ** ...
+
+Compact, low-mass galaxies with strong nebular emission are considered promising candidates for efficient ionizing photon production and escape. 
+
+We present a spatially resolved analysis of 189 galaxies at redshifts z ∼ 6.7–7.6 in JADES GOODS-N and GOODS-S fields and selected via JWST/NIRCam F410M filter. By employing annular photometry and spectral energy distribution fitting across rest-frame UV to optical wavelengths, we investigate the internal structure of star formation, ionizing photon production and escape, as well as the resolved star formation histories within these galaxies. We find that these galaxies exhibit compact, centrally concentrated, and bursty star formation, especially in lower-mass systems ( log M * /M < 9.0 ). The central regions of them display extreme [O III]+Hβ equivalent widths (>1000 Å), high ionizing photon production efficiencies (ξ ion ∼ 10 25.6 Hz erg−1 ), steep UV slopes (∼−2.3), and elevated escape fractions ( f esc > 0.08), with all these properties peaking in the inner regions. These findings reveal outside-in growth and rising star formation histories at z ∼ 7, with the central regions of them playing a pivotal role in driving cosmic reionization.
+
+<img src="https://cqlyu.github.io/images/Lyu25b-1.png" class="floatpic" width="1000">
+
 ## Coplanar Inflows in Driving Disk Evolution
 
-**In Lyu et al. (2025), we investigated the radial gradients of gas-phase metallicity (∇log (O/H)) and their relationship with other galaxy properties utilizing MaNGA sample, providing indirect observational evidence for the dominant role of coplanar gas inflows in disk evolution.** 
+**In Lyu et al. (2025a), we investigated the radial gradients of gas-phase metallicity (∇log (O/H)) and their relationship with other galaxy properties utilizing MaNGA sample, providing indirect observational evidence for the dominant role of coplanar gas inflows in disk evolution.** 
 
 The formation and evolution of galaxy disks are central issues in the study of galaxies. In star-forming galaxies, the gas disk requires a continuous supply of gas to sustain star formation. However, there has long been a lack of direct observational evidence for how gas is accreted onto the disk and flows within the galaxy. Based on numerical simulations and theoretical models, astronomers have proposed two main modes of disk formation: one involves continuous gas inflows along the disk plane, while the other suggests that different parts of the disk evolve independently, with gas flows, star formation, and metal enrichment occurring independently within each region. The dominance of either mode has been a matter of debate.
 
