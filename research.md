@@ -10,21 +10,21 @@ title: Research
 
 ## Mg II-traced Cool Gas Outflows toward Cosmic Dawn
 
-**In Lyu et al. (2026b), ** ...
+**In Lyu et al. (2026), ** **we present the first statistical investigation of Mg II-traced cool gas outflows in galaxies spanning a wide cosmic timeline from z ≈ 1 to z > 6 (with sample coverage extending to z ∼ 10).** 
 
 Galactic-scale outflows are a crucial component of galaxy evolution, yet their properties in the early Universe remain poorly constrained. 
 
-We present the first statistical investigation of Mg II-traced cool gas outflows in galaxies spanning a wide cosmic timeline from z ≈ 1 to z > 6 (with sample coverage extending to z ∼ 10). Using thousands of public JWST/NIRSpec spectra, we employ a signal-to-noise-weighted spectral stacking technique on the Mg II λλ2796, 2803 absorption doublet. We robustly detect blueshifted Mg II absorption in nearly all stellar mass and redshift bins, with the exception of the lowest-mass systems at z ∼ 1–2. The outflow equivalent width exhibits a positive correlation with stellar mass (M * ) at all epochs, with the fitted slope of 1.21 ± 0.35. Our work provides the first statistical constraints on Mg II-traced cool outflows in the low-mass (M * ≲ 10 9.5 M⊙ ), highredshift (z > 3) regime. We also find that the outflow velocities generally remain below the host halo escape velocities, consistent with a galactic fountain scenario. The consistency of the stellar mass outflow equivalent width relation across z ∼ 2–6 suggests a persistent, unevolving feedback mechanism governing the baryon cycle toward cosmic dawn.
+Using thousands of public JWST/NIRSpec spectra, we employ a signal-to-noise-weighted spectral stacking technique on the Mg II λλ2796, 2803 absorption doublet. We robustly detect blueshifted Mg II absorption in nearly all stellar mass and redshift bins, with the exception of the lowest-mass systems at z ∼ 1–2. The outflow equivalent width exhibits a positive correlation with stellar mass (M * ) at all epochs, with the fitted slope of 1.21 ± 0.35. Our work provides the first statistical constraints on Mg II-traced cool outflows in the low-mass (M * ≲ 10 9.5 M⊙ ), highredshift (z > 3) regime. We also find that the outflow velocities generally remain below the host halo escape velocities, consistent with a galactic fountain scenario. **The consistency of the stellar mass outflow equivalent width relation across z ∼ 2–6 suggests a persistent, unevolving feedback mechanism governing the baryon cycle toward cosmic dawn.**
 
 <img src="https://cqlyu.github.io/images/Lyu26-1.png" class="floatpic" width="1000">
 
 ## Little Green Dots: [OIII]-bright Galaxies at the Epoch of Reionization
 
-**In Lyu et al. (2025b), ** ...
+**In Lyu et al. (2025b),  we present a spatially resolved analysis of 189 galaxies at redshifts z ∼ 6.7–7.6 selected via JWST/NIRCam F410M filter, and we investigate the internal structure of star formation, ionizing photon production and escape, as well as the resolved star formation histories within these galaxies.**
 
 Compact, low-mass galaxies with strong nebular emission are considered promising candidates for efficient ionizing photon production and escape. 
 
-We present a spatially resolved analysis of 189 galaxies at redshifts z ∼ 6.7–7.6 in JADES GOODS-N and GOODS-S fields and selected via JWST/NIRCam F410M filter. By employing annular photometry and spectral energy distribution fitting across rest-frame UV to optical wavelengths, we investigate the internal structure of star formation, ionizing photon production and escape, as well as the resolved star formation histories within these galaxies. We find that these galaxies exhibit compact, centrally concentrated, and bursty star formation, especially in lower-mass systems ( log M * /M < 9.0 ). The central regions of them display extreme [O III]+Hβ equivalent widths (>1000 Å), high ionizing photon production efficiencies (ξ ion ∼ 10 25.6 Hz erg−1 ), steep UV slopes (∼−2.3), and elevated escape fractions ( f esc > 0.08), with all these properties peaking in the inner regions. These findings reveal outside-in growth and rising star formation histories at z ∼ 7, with the central regions of them playing a pivotal role in driving cosmic reionization.
+We find that these galaxies exhibit compact, centrally concentrated, and bursty star formation, especially in lower-mass systems ( log M * /M < 9.0 ). The central regions of them display extreme [O III]+Hβ equivalent widths (>1000 Å), high ionizing photon production efficiencies (ξ ion ∼ 10 25.6 Hz erg−1 ), steep UV slopes (∼−2.3), and elevated escape fractions ( f esc > 0.08), with all these properties peaking in the inner regions. **These findings reveal outside-in growth and rising star formation histories at z ∼ 7, with the central regions of them playing a pivotal role in driving cosmic reionization.**
 
 <img src="https://cqlyu.github.io/images/Lyu25b-1.png" class="floatpic" width="1000">
 
@@ -32,11 +32,11 @@ We present a spatially resolved analysis of 189 galaxies at redshifts z ∼ 6.7�
 
 **In Lyu et al. (2025a), we investigated the radial gradients of gas-phase metallicity (∇log (O/H)) and their relationship with other galaxy properties utilizing MaNGA sample, providing indirect observational evidence for the dominant role of coplanar gas inflows in disk evolution.** 
 
-The formation and evolution of galaxy disks are central issues in the study of galaxies. In star-forming galaxies, the gas disk requires a continuous supply of gas to sustain star formation. However, there has long been a lack of direct observational evidence for how gas is accreted onto the disk and flows within the galaxy. Based on numerical simulations and theoretical models, astronomers have proposed two main modes of disk formation: one involves continuous gas inflows along the disk plane, while the other suggests that different parts of the disk evolve independently, with gas flows, star formation, and metal enrichment occurring independently within each region. The dominance of either mode has been a matter of debate.
+In star-forming galaxies, the gas disk requires a continuous supply of gas to sustain star formation. However, there has long been a lack of direct observational evidence for how gas is accreted onto the disk and flows within the galaxy. Based on numerical simulations and theoretical models, astronomers have proposed two main modes of disk formation: one involves continuous gas inflows along the disk plane, while the other suggests that different parts of the disk evolve independently, with gas flows, star formation, and metal enrichment occurring independently within each region. The dominance of either mode has been a matter of debate.
 
 The study found that, at a given stellar mass, disks with lower gas-phase metallicity exhibit steeper negative gradients (i.e., metallicity decreases rapidly from the center to the outskirts). This trend aligns well with the coplanar inflow scenario, where gas flowing inward along the disk plane is progressively enriched by in situ star formation. In contrast, if different regions of the disk evolved independently, the metallicity gradient would be strongly correlated with the gradient of stellar mass surface density, which was not observed in the study.
 
-Additionally, the study revealed a close correlation between the gas turbulence parameter (represented by σgas/Re) and the metallicity gradient. Turbulence weakens the gradient through gas mixing. Using a Random Forest machine learning model, the study quantified the impact of different physical parameters on the gradient. The results showed that metallicity excess (Δlog(O/H)) and the gas turbulence parameter (σgas/Re) are the most critical factors in predicting the gradient, far outweighing traditional parameters such as stellar mass or galaxy size. This highlights the combined role of turbulence and coplanar inflows in shaping the metallicity gradient.
+Additionally, the study revealed a close correlation between the gas turbulence parameter (represented by σgas/Re) and the metallicity gradient. Turbulence weakens the gradient through gas mixing. Using a Random Forest machine learning model, the study quantified the impact of different physical parameters on the gradient. The results showed that metallicity excess (Δlog(O/H)) and the gas turbulence parameter (σgas/Re) are the most critical factors in predicting the gradient, far outweighing traditional parameters such as stellar mass or galaxy size. **This highlights the combined role of turbulence and coplanar inflows in shaping the metallicity gradient.**
 
 
 
@@ -44,7 +44,7 @@ Additionally, the study revealed a close correlation between the gas turbulence 
 
 
 
-## The impact of halo assembly history on galaxy evolution
+## The Impact of Halo Assembly History on Galaxy Evolution
 
 **In Lyu et al. (2023), we investigate the impact of halo assembly history on galaxy stellar mass growth history and quenching history for central galaxies.** It has been established in previous decades that the growth of galaxy stellar mass is tightly related to the assembly of their host dark matter halos from both observational and theoretical perspectives (Wechsler et al. 2018). However, the secondary effect of the galaxy-halo connections still remains elusive in observation. 
 
@@ -56,17 +56,17 @@ Different halo assembly history also produces a very different final stellar mas
 
 <img src="https://cqlyu.github.io/images/Lyu23-1.png" class="floatpic" width="600">
 
-## Tracing star formation quenching by metallicity
+## Tracing Star Formation Quenching by Metallicity
 
-In Lyu et al. (2023), we investigate the stellar mass growth history and the chemical enrichment history of central galaxies measured from the SDSS-MaNGA survey. We find that at a given epoch, the derived stellar metallicity of central passive galaxies is always higher than that of the star-forming ones. This stellar metallicity enhancement becomes larger for low-mass galaxies (at a given epoch) and for an earlier epoch (at a given stellar mass). **We find strangulation is the primary mechanism for star formation quenching in central galaxies not only in the local Universe (Peng et al. 2015), but very likely also at higher redshifts up to z ∼ 3.
+**In Lyu et al. (2023), we investigate the stellar mass growth history and the chemical enrichment history of central galaxies measured from the SDSS-MaNGA survey.** We find that at a given epoch, the derived stellar metallicity of central passive galaxies is always higher than that of the star-forming ones. This stellar metallicity enhancement becomes larger for low-mass galaxies (at a given epoch) and for an earlier epoch (at a given stellar mass). **We find strangulation is the primary mechanism for star formation quenching in central galaxies not only in the local Universe (Peng et al. 2015), but very likely also at higher redshifts up to z ∼ 3.**
 
 
 
 <br><img src="https://cqlyu.github.io/images/Lyu23-2.png" class="floatpic" width="600"><br>
 
-## Estimate the halo assembly history for SDSS galaxy groups
+## Estimate the Halo Assembly History for SDSS Galaxy Groups
 
-In Lyu et al. (2024), **we establish new regression models using observable quantities of galaxies and group properties to estimate unobservable halo assembly history. Applied the trained models to the SDSS group catalog, we derive the halo assembly time of each individual central galaxy.** The properties of the central galaxy are tightly connected to their host dark matter halo mass and halo assembly history. For instance, as found in Work I, at the same present-day halo mass, different halo assembly histories can produce significantly different final stellar mass of the central galaxy within. However, accurate measurement of the halo assembly history in observation is very challenging but is of great importance to the understanding of galaxy formation and evolution. The stellar-to-halo mass ratio (Mstar/M_h) for the centrals has often been used to indicate the halo assembly time t_h,50 of the group, where t_h,50 indicates the lookback time at which a halo has assembled 50% of its present-day virial mass. 
+**In Lyu et al. (2024),** **we establish new regression models using observable quantities of galaxies and group properties to estimate unobservable halo assembly history. Applied the trained models to the SDSS group catalog, we derive the halo assembly time of each individual central galaxy.** The properties of the central galaxy are tightly connected to their host dark matter halo mass and halo assembly history. However, accurate measurement of the halo assembly history in observation is very challenging but is of great importance to the understanding of galaxy formation and evolution. The stellar-to-halo mass ratio (Mstar/M_h) for the centrals has often been used to indicate the halo assembly time t_h,50 of the group, where t_h,50 indicates the lookback time at which a halo has assembled 50% of its present-day virial mass. 
 
 Using mock data from the semi-analytic model L-GALAXIES, we find that Mstar/M_h shows a significant scatter with t_h,50, with a strong systematic difference between the group with a star-forming central (blue group) and passive central (red group). To improve the accuracy, we develop machine-learning regression models to estimate t_h,50 for galaxy groups at 0.01<z<0.20, using only observable quantities in the mocks. Since star-formation quenching will decouple the co-growth of the dark matter and baryon for the central galaxies, we train our models separately for blue and red groups. We show our models have successfully recovered the t_h,50, within an accuracy of ~0.99 Gyr for the blue groups, and ~1.03 Gyr for the red groups. Nevertheless, our models do not perform well for red groups assembled relatively recently (with t_h,50 < 5 Gyr, less than 5% of all mock samples), and even including non- or difficult-observable properties can barely improve the model performance for this small population, probably due to the recent merger of the halos in a random fashion. 
 
@@ -80,9 +80,10 @@ With careful calibrations of individual observable quantities in the mocks with 
 
 - TBD
 
-
-
 ## Chemical Models
 
 - TBD
 
+## Galaxy Pairs
+
+- TBD
