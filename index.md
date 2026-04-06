@@ -10,7 +10,7 @@ layout: page
 
 Here is **Cheqiu Lyu** (吕澈秋，pronounced as <a href="https://translate.google.com/#view=home&op=translate&sl=zh-CN&tl=zh-CN&text=吕澈秋"><strong>Lyǔ Chè Qiū</strong> </a>).
 
-I am a Postdoctoral Researcher at Department of Astronomy, [University of Science and Technology of China](https://www.ustc.edu.cn/) (USTC).
+I am a **Postdoctoral Researcher** at Department of Astronomy, [University of Science and Technology of China](https://www.ustc.edu.cn/) (USTC).
 
 
 
@@ -20,7 +20,7 @@ I am a Postdoctoral Researcher at Department of Astronomy, [University of Scienc
 
 
 
-**This website is still under-construction! (Lastest Update: June 16 2025)**
+**This website is still under-construction! (Lastest Update: April 6 2026)**
 
 <br>
 
@@ -52,15 +52,14 @@ I am a Postdoctoral Researcher at Department of Astronomy, [University of Scienc
 
 My current research focuses on: 
 
-- Galaxy-Halo Connection
-- Gas flows and evolution of Disk Galaxies
-- Galaxy Assembly at Epoch of Reionization
-- Chemical Evolution of Galaxies
-- Star Formation Quenching of Galaxies
+-  Galaxy-Halo Connection: galaxy growth history, halo assembly history
+- Chemical Evolution of Galaxies: mass-metallicity relations, chemical models
+- Star Formation Quenching of Galaxies: environment, galaxy morphology and structure
+- High-redshift Galaxies: star formation history, chemical enrichment history, strong [O III] emission galaxies, reionization, gas outflows
 
 My research interests also include:
 
-- Search for Extraterrestrial Intelligents in Observation
+-  Search for Extraterrestrial Intelligents in Observation
 - Contrain Cosmological Parameters in Observation
 - Morphology and Physics of Radio Galaxies
 
@@ -68,7 +67,9 @@ My research interests also include:
 
 ## Research Experience in Astrophysics
 
-- *Galaxies assembly and disk evolution across the cosmic time*, collaborate with Prof. Enci Wang (DoA, USTC), Since Aug 2024
+- Referee for **Nature Astronomy**, Research in Astronomy and Astrophysics (RAA), since 2025
+
+- *Galaxies assembly and gas flows across the cosmic time*, collaborate with Prof. Enci Wang (DoA, USTC), Since Aug 2024
 - *Tracing galaxies evolution with gas-phase and stellar metallicities*, Supervised by Prof. Yingjie Peng (KIAA, PKU), Since Jul 2020
 - *Research on High-redshift Quasars and VLBI data processing*, Internship, Supervised by Prof. Tao An ([Shanghai Astronomical Observatory (SHAO)](http://english.shao.ac.cn/), CAS), Aug 2018
 - National Undergraduate Training Programs for Innovation: *A Mitigation Method of Radio Frequency Interference (RFI) in Searching for Extraterrestrial Intelligence (SETI)* , PI, Supervised by Prof. Tong-Jie Zhang ([DoA, BNU](https://astro.bnu.edu.cn/english/index.html)),  Jun 2017- Jun 2018
@@ -85,6 +86,13 @@ My research interests also include:
 ## Astronomy Outreach: Teaching and Science Popularizing
 
 **My outreach activities on astronomy span a wide range of audiences, including the school children from ages 6 to 18 and general public. I have been engaged in outreach in 10 cities in China.**
+
+
+
+- Lectures on Astronomy in Xiangzhangyayuan Primary School School @Hefei, Anhui, 2025
+
+
+-  Invited Instructor on Astronomical Observation for Teenagers @Haixi, Qinghai, 2025
 
 - Volunteer and lecturer for the USTC Observatory's public open day @Heifei, 2025
 - Part-time Teaching Astronomy in the Affiliated High School of PKU @Beijing, 2018, 2019, 2021, 2022, 2023, 2024
