@@ -10,6 +10,10 @@ title: Outreach
 
 **My outreach activities on astronomy span a wide range of audiences, including the school children from ages 6 to 18 and general public. I have been engaged in outreach in 9 cities in China.**
 
+- Lectures on Astronomy in Xiangzhangyayuan Primary School School @Hefei, Anhui, 2025
+
+-  Invited Instructor on Astronomical Observation for Teenagers @Haixi, Qinghai, 2025
+
 - Volunteer and lecturer for the USTC Observatory’s public open day @Heifei, 2025
 - Part-time Teaching Astronomy in the Affiliated High School of PKU @Beijing, 2018, 2019, 2021, 2022, 2023, 2024
 - Invited Instructor on Astronoical Observation for Teenagers @Zhangye/Jiuqiuan/Jiayuguan/Alashan, Gansu/Inner Mongolia, 2023
